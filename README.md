@@ -41,25 +41,5 @@
 
 ---
 
-## 🚀 GitHub에 업로드하는 방법
-
-### 방법 1. 웹 브라우저로 업로드 (가장 쉬운 방법)
-1. GitHub([github.com](https://github.com))에 로그인 후 우측 상단 `+` 버튼 → **[New repository]** 클릭
-2. Repository name 입력 (예: `lease-deposit-lawsuit-guide`) → **Public** 또는 **Private** 선택 → **[Create repository]** 클릭
-3. 생성된 저장소 페이지에서 **"uploading an existing file"** 링크 클릭
-4. 본 압축 파일(`lease_lawsuit_ebook_bundle.zip`)을 해제한 파일들을 드래그 앤 드롭으로 업로드 후 **[Commit changes]** 클릭!
-
-### 방법 2. Git CLI 터미널 명령어로 업로드
-```bash
-git init
-git add .
-git commit -m "feat: Initial commit - Lease deposit lawsuit e-book complete guide"
-git branch -M main
-git remote add origin https://github.com/<YOUR-GITHUB-USERNAME>/<YOUR-REPO-NAME>.git
-git push -u origin main
-```
-
----
-
 ## ⚖️ 저작권 및 면책 고지
 본 문서는 법률 자문이 아닌 절차 안내서입니다. 수록된 법령·요율·화면 경로는 집필 기준 시점의 일반 정보로서, 개정 또는 시스템 변경에 따라 달라질 수 있으므로 실제 소송 진행 시 관할 법원 및 법률 전문가의 조력을 확인하시기 바랍니다.
