@@ -3,6 +3,8 @@
 > **2024~2026 최신 개정 법령 반영 · AI 협업형 초안 작성부터 판결·통장 압류·소송비용 전액 회수까지**  
 > 대한민국 법원 전자소송([ecfs.scourt.go.kr](https://ecfs.scourt.go.kr/psp/index.on))을 활용한 임대차보증금 반환 나홀로 전자소송 올인원 실전 가이드북입니다.
 
+### 🌐 [웹에서 바로 읽기 → hey-bernard.github.io/lease-deposit-lawsuit-guide](https://hey-bernard.github.io/lease-deposit-lawsuit-guide/)
+
 ---
 
 ## 📂 저장소 구조 (Repository Structure)
